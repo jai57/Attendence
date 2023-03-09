@@ -1,0 +1,17 @@
+.gaps{
+    font-style: italic;
+    font-size: larger;
+}
+.btn{
+    width: 80px;
+    border: 3px solid black;
+    padding: 5px;
+    margin: 4px;
+}
+.cs{
+    color: red;
+}
+input{
+    margin-top:0px;
+    margin-bottom: 6px;
+}
